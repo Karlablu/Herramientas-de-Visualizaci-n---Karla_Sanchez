@@ -1,0 +1,40 @@
+.logo {
+    height: 30px;
+  }
+
+  .logoFovissste {
+    height: 100px;
+  }
+
+  .credTrad{
+      height: 75px;
+      width: 75PX;
+      object-fit: cover;
+    } 
+
+  .vizprev {
+      background-color: #eee;
+      border: 1px solid gray;
+      height: 300px;
+    }
+
+  .grafCredTrad {
+        height: 100 px;
+        width: 100 px;
+    } 
+
+  .colCredTrad {
+      column-count: 3;
+
+    }
+
+  .eje {
+      font-family: 'Roboto Condensed';
+      font-size: 14px;
+    }
+    
+  .titulo-grafica {
+      font-family: 'Montserrat';
+      font-weight: bold;
+      font-size: 20px;
+    }
