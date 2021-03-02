@@ -38,3 +38,18 @@
       font-weight: bold;
       font-size: 20px;
     }
+
+    .slider {
+      width: 100%;
+    }
+    
+    .overlay {
+      fill: none;
+      pointer-events: all;
+    }
+    
+    .hover-line {
+      stroke: #FFE800;
+      stroke-width: 2px;
+      stroke-dasharray: 3,3;
+    }
